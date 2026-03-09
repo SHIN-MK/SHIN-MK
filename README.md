@@ -16,11 +16,6 @@
   <h6>Ajou Univ CyberSecurity</h6>
   <h6>Ajou GDSC 2기</h6>
   <h6>Kings Information & Network 재직</h6>
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIN-MK&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIN-MK)](https://github.com/SHIN-MK/github-readme-stats)
 
 [Develope Blog](https://shinsabo894.tistory.com/)
 
